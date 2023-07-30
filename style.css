@@ -1,0 +1,136 @@
+#img-perfil{
+    width: 150px;
+}
+
+#img-stack{
+    width: 200px;
+}
+
+.bg-primary{
+    background-color: #fd9843!important;
+}
+
+.nav-link{
+    color: #653208!important;
+}
+
+.text-bg-primary {
+    background-color: #4391fd!important;
+}
+
+.titulo-proyecto{
+    text-shadow: 2px 5px 30px #000000;
+}
+
+#proyecto-1{
+    background-image: url('imagenes/proyecto-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#proyecto-2{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-3{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-4{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-5{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-6{
+    background-image: url('unsplash-photo-1.jpg');
+}
+
+.carousel-item{
+    height: 400px;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #fd9843;
+    height: 5px;
+}
+
+.carousel-caption{
+    color:black;
+}
+
+.icono{
+    width: 50px;
+}
+
+.icono{
+    font-size: 2rem; 
+    color: cornflowerblue;
+}
+#perfil{
+    background-image: url(imagenes/bt.jpg);
+   background-size: 1200px;
+   background-position: 50px;
+}
+
+#typewriter {
+   color: rgb(0, 251, 255);
+   border-color: rgb(237, 5, 206) ;
+   border-style: double;
+}
+
+.lead {
+    color:rgb(148, 0, 247);
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-color: rgb(237, 5, 206);
+    border-style:double
+}
+
+#desarrollo-web {
+    background-image: url(imagenes/prog-fondo.jpg);
+}
+
+.title-desarrollo{
+    color: azure;
+}
+
+#bg-profile {
+    background-image: url(imagenes/prof.fondo.jpg);
+}
+
+.profile {
+    color:azure
+}
+
+#proyectos {
+    background-image: url(imagenes/proyect-fondo.jpeg);
+}
+
+#p {
+    color: azure;
+}
+
+#title-project {
+    color: #4391fd;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+#proyecto-1 {
+    text-align: center;
+    background-image: url(imagenes/galax-fondo.jpeg);
+    cursor: pointer;
+}
+
+#proyecto-2 {
+    text-align: center;
+    background-image: url(imagenes/google-fondo.jpeg);
+    cursor: pointer;
+}
+
+#proyecto-3 {
+    text-align: center;
+    background-image: url(imagenes/cv-fondo.jpeg);
+    cursor: pointer;
+}
+
