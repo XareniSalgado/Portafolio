@@ -36,4 +36,5 @@ El texto de la página web está escrito en español, sin embargo: la clases rel
 ## Contacto 
 
 Desarrollado por:  en Tecnolochicas PRO Summer Camp.
+
 [Xareni Bernal Salgado]
